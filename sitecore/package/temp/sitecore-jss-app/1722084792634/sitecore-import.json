@@ -1,0 +1,20 @@
+{
+  "templates": [],
+  "placeholders": [
+    {
+      "name": "jss-main"
+    }
+  ],
+  "appName": "sitecore-jss-app",
+  "language": "en",
+  "renderings": [],
+  "wipeExisting": false,
+  "rootPlaceholders": [
+    "jss-main"
+  ],
+  "items": {
+    "routes": [],
+    "nonRoutes": []
+  },
+  "dictionary": []
+}
